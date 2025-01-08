@@ -17,7 +17,7 @@ Frames are extracted and zero-padded for each video (e.g., `C_000001_01.jpg`, `C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CarCrashDetection.git
+   git clone https://github.com/imustitanveer/Car-Crash-Detection-with-CNN.git
    cd CarCrashDetection
    ```
 2. Install dependencies:
